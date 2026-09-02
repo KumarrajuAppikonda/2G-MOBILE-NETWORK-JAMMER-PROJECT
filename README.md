@@ -205,12 +205,19 @@ The circuit includes an antenna connection for studying antenna-based RF signal 
 Through this project, I gained practical knowledge of:
 
 ✔ NE555 Timer IC operation
+
 ✔ Electronic oscillator circuits
+
 ✔ Transistor switching and oscillator circuits
+
 ✔ LC resonant circuits
+
 ✔ Frequency generation principles
+
 ✔ Capacitor and inductor behavior
+
 ✔ Basic antenna and RF transmission concepts
+
 ✔ Circuit design and analysis
 
 ⚠️ Important Note
@@ -224,5 +231,7 @@ Radio-frequency interference with public communication networks may be illegal a
 kumar raju Appikonda
 
 Developed an academic electronics project based on the NE555 Timer IC and transistor-based oscillator circuitry.
+
 Studied oscillator circuits, LC resonance, frequency generation, and antenna-based RF transmission concepts.
+
 Designed and analyzed the electronic circuit for controlled experimentation.
