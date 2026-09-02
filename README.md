@@ -171,6 +171,9 @@ The circuit includes an antenna connection for studying antenna-based RF signal 
 
 🧩 System Block Diagram
 
+<img width="573" height="646" alt="image" src="https://github.com/user-attachments/assets/a218c197-d74d-4d1e-a8bd-08c5202ac9b6" />
+
+
 
         +------------------+
         |   DC Power Supply |
