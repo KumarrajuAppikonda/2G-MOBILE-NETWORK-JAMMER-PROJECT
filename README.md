@@ -230,7 +230,8 @@ This project is documented as an academic electronics experiment for studying os
 
 Radio-frequency interference with public communication networks may be illegal and can disrupt emergency or authorized communications.
 
-Any practical testing should only be performed in properly authorized, controlled, and compliant environments.
+Any practical testing should only be performed in properly authorized, controlled, and compliant environments
+
 ---
 
 👨‍💻 Author
