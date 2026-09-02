@@ -72,6 +72,10 @@ To design and study a **2G mobile network jammer circuit concept** using an **NE
 
 📸 Circuit Design
 
+
+<img width="782" height="465" alt="image" src="https://github.com/user-attachments/assets/3ed12985-edfb-476e-8483-e0412e1b09cb" />
+
+
 The circuit diagram includes:
 
 1.NE555 Timer IC
@@ -85,10 +89,10 @@ The circuit diagram includes:
 9.9V power supply
 
 
-<img width="782" height="465" alt="image" src="https://github.com/user-attachments/assets/3ed12985-edfb-476e-8483-e0412e1b09cb" />
 
 
- 🔌 Circuit Diagram
+
+ 🔌 Circuit Diagram Explanation 
 
 The circuit consists of two main sections:
 
