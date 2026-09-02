@@ -198,6 +198,8 @@ The circuit includes an antenna connection for studying antenna-based RF signal 
         +------------------+
         | Antenna Section  |
         +------------------+
+        
+---
 
 
 🚀 Project Learning Outcomes
@@ -220,11 +222,16 @@ Through this project, I gained practical knowledge of:
 
 ✔ Circuit design and analysis
 
+---
+
 ⚠️ Important Note
 
 This project is documented as an academic electronics experiment for studying oscillator and RF circuit principles.
 
-Radio-frequency interference with public communication networks may be illegal and can disrupt emergency or authorized communications. Any practical testing should only be performed in properly authorized, controlled, and compliant environments.
+Radio-frequency interference with public communication networks may be illegal and can disrupt emergency or authorized communications.
+
+Any practical testing should only be performed in properly authorized, controlled, and compliant environments.
+---
 
 👨‍💻 Author
 
