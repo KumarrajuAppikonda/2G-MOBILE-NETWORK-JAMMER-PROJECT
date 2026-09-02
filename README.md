@@ -76,6 +76,11 @@ To design and study a **2G mobile network jammer circuit concept** using an **NE
 <img width="782" height="465" alt="image" src="https://github.com/user-attachments/assets/3ed12985-edfb-476e-8483-e0412e1b09cb" />
 
 
+
+
+
+
+
 The circuit diagram includes:
 
 1.NE555 Timer IC
